@@ -4536,8 +4536,8 @@ For any queries or further information, please contact me at boyez.btech@gmail.c
 
 | File                                                                                                         | Summary                                                 |
 | ---                                                                                                          | ---                                                     |
-| [Task_03.ipynb](https://github.com/vasanth-boyez/Prodigy_Intern.git/blob/master/Prodigy_ML_03/Task_03.ipynb) |  `Prodigy_ML_03/Task_03.ipynb` |
-| [kaggle.json](https://github.com/vasanth-boyez/Prodigy_Intern.git/blob/master/Prodigy_ML_03/kaggle.json)     |  `Prodigy_ML_03/kaggle.json`   |
+| [Task_03.ipynb](https://github.com/vasanth-boyez/Prodigy_Intern/blob/main/Prodigy_ML_03/Task_03.ipynb) |  `Prodigy_ML_03/Task_03.ipynb` |
+| [kaggle.json](https://github.com/vasanth-boyez/Prodigy_Intern/blob/main/Prodigy_ML_03/kaggle.json)     |  `Prodigy_ML_03/kaggle.json`   |
 
 </details>
 
@@ -4545,7 +4545,7 @@ For any queries or further information, please contact me at boyez.btech@gmail.c
 
 | File                                                                                                         | Summary                                                 |
 | ---                                                                                                          | ---                                                     |
-| [Task_02.ipynb](https://github.com/vasanth-boyez/Prodigy_Intern.git/blob/master/Prodigy_ML_02/Task_02.ipynb) |  `Prodigy_ML_02/Task_02.ipynb` |
+| [Task_02.ipynb](https://github.com/vasanth-boyez/Prodigy_Intern/blob/main/Prodigy_ML_02/Task_02.ipynb) |  `Prodigy_ML_02/Task_02.ipynb` |
 
 </details>
 
@@ -4553,7 +4553,7 @@ For any queries or further information, please contact me at boyez.btech@gmail.c
 
 | File                                                                                                                 | Summary                                                     |
 | ---                                                                                                                  | ---                                                         |
-| [Task_01 (1).ipynb](https://github.com/vasanth-boyez/Prodigy_Intern.git/blob/master/Prodigy_ML_01/Task_01 (1).ipynb) |  `Prodigy_ML_01/Task_01 (1).ipynb` |
+| [Task_01 (1).ipynb](https://github.com/vasanth-boyez/Prodigy_Intern/blob/main/Prodigy_ML_01/Task_01%20(1).ipynb) |  `Prodigy_ML_01/Task_01 (1).ipynb` |
 
 </details>
 
@@ -4561,8 +4561,8 @@ For any queries or further information, please contact me at boyez.btech@gmail.c
 
 | File                                                                                                                 | Summary                                                     |
 | ---                                                                                                                  | ---                                                         |
-| [labels.txt](https://github.com/vasanth-boyez/Prodigy_Intern.git/blob/master/Prodigy_ML_04/labels.txt)               | `Prodigy_ML_04/labels.txt`        |
-| [Task_04 (1).ipynb](https://github.com/vasanth-boyez/Prodigy_Intern.git/blob/master/Prodigy_ML_04/Task_04 (1).ipynb) |  `Prodigy_ML_04/Task_04 (1).ipynb` |
+| [labels.txt](https://github.com/vasanth-boyez/Prodigy_Intern/blob/main/Prodigy_ML_04/labels.txt)               | `Prodigy_ML_04/labels.txt`        |
+| [Task_04 (1).ipynb](https://github.com/vasanth-boyez/Prodigy_Intern/blob/main/Prodigy_ML_04/Task_04%20(1).ipynb) |  `Prodigy_ML_04/Task_04 (1).ipynb` |
 
 </details>
 
@@ -4570,7 +4570,7 @@ For any queries or further information, please contact me at boyez.btech@gmail.c
 
 | File                                                                                                                                       | Summary                                                                    |
 | ---                                                                                                                                        | ---                                                                        |
-| [README_rpc-cv-images.txt](https://github.com/vasanth-boyez/Prodigy_Intern.git/blob/master/Prodigy_ML_04/Dataset/README_rpc-cv-images.txt) |  `Prodigy_ML_04/Dataset/README_rpc-cv-images.txt` |
+| [README_rpc-cv-images.txt](https://github.com/vasanth-boyez/Prodigy_Intern/blob/main/Prodigy_ML_04/Dataset/README_rpc-cv-images.txt) |  `Prodigy_ML_04/Dataset/README_rpc-cv-images.txt` |
 
 </details>
 
@@ -4578,7 +4578,7 @@ For any queries or further information, please contact me at boyez.btech@gmail.c
 
 | File                                                                                                                                                     | Summary                                                                                  |
 | ---                                                                                                                                                      | ---                                                                                      |
-| [README_rpc-cv-images.txt](https://github.com/vasanth-boyez/Prodigy_Intern.git/blob/master/Prodigy_ML_04/Dataset/rps-cv-images/README_rpc-cv-images.txt) |  `Prodigy_ML_04/Dataset/rps-cv-images/README_rpc-cv-images.txt` |
+| [README_rpc-cv-images.txt](https://github.com/vasanth-boyez/Prodigy_Intern/blob/main/Prodigy_ML_04/Dataset/README_rpc-cv-images.txt) |  `Prodigy_ML_04/Dataset/rps-cv-images/README_rpc-cv-images.txt` |
 
 </details>
 
@@ -4586,7 +4586,7 @@ For any queries or further information, please contact me at boyez.btech@gmail.c
 
 | File                                                                                                         | Summary                                                 |
 | ---                                                                                                          | ---                                                     |
-| [Task_05.ipynb](https://github.com/vasanth-boyez/Prodigy_Intern.git/blob/master/Prodigy_ML_05/Task_05.ipynb) |  `Prodigy_ML_05/Task_05.ipynb` |
+| [Task_05.ipynb](https://github.com/vasanth-boyez/Prodigy_Intern/blob/main/Prodigy_ML_05/Task_05.ipynb) |  `Prodigy_ML_05/Task_05.ipynb` |
 
 </details>
 
