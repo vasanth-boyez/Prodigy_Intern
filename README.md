@@ -90,7 +90,7 @@ I would like to thank Prodigy Infotech for the opportunity to work on these exci
 
 ## Contact
 
-For any queries or further information, please contact me at boyez.btech@example.com.
+For any queries or further information, please contact me at boyez.btech@gmail.com
 
 ---
 
